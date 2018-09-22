@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "First few weeks"
 ---
 <h1>Hello everyone,</h3>
