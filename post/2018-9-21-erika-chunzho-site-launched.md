@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, Launches Site"
+title: "Erika Chunzho, Launches Site"
 date: 2014-09-21
 ---
 
