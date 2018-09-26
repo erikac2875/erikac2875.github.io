@@ -43,7 +43,7 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-.fstPage {
+nav ul, footer ul {
     background-image:url("https://lawrencecheng123.github.io/Seattle.jpg");
     /*background-color: lightgray;*/
     height: 700px;
