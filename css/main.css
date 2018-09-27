@@ -46,7 +46,7 @@ ul.posts li {
  .fstPage {
     background-image:url("https://oxfordmartin.imgix.net/_originals/sustainable_oceans_AdobeStock_watoson.jpg?w=1140&h=488&fit=crop");
     /*background-color: lightgray;*/
-    height: 700px;
+    height: 400px;
     width:100%;
     background-size:cover;
 }
