@@ -46,7 +46,7 @@ ul.posts li {
  .fstPage {
     background-image:url("https://s3.envato.com/files/106405422/sunrise_bird_590x332.jpg");
     /*background-color: lightgray;*/
-    height: 300px;
+    height: 400px;
     width:100%;
     background-size:cover;
 }
