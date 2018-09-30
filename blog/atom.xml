@@ -4,7 +4,6 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<div class="fstPage"></div>
 	<title>Erika Chunzho's Blog</title>
 	<link href="http://erikac2875.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://erikac2875.github.io/blog"/>
