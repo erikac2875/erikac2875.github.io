@@ -50,3 +50,11 @@ ul.posts li {
     width:100%;
     background-size:cover;
 }
+}
+ .Post {
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOrNjdPuRk4u_w8Qf0DASXH09rLJTtnbika6Nq6EsiO7VVdVjkLg");
+    /*background-color: lightgray;*/
+    height: 400px;
+    width:100%;
+    background-size:cover;
+}
