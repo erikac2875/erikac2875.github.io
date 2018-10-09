@@ -49,18 +49,9 @@ ul.posts li {
     height: 400px;
     width:100%;
     background-size:cover;
-}
-}
- .post {
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOrNjdPuRk4u_w8Qf0DASXH09rLJTtnbika6Nq6EsiO7VVdVjkLg");
-    /*background-color: lightgray;*/
-    height: 400px;
-    width:100%;
-    background-size:cover;
-}
 
 }
- .ocean{
+ .post{
     background-image:url("http://www.lifeconex.com/Userfiles/blog/sea-hello-cold-chain.jpg");
     /*background-color: lightgray;*/
     height: 400px;
