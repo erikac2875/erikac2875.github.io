@@ -58,3 +58,12 @@ ul.posts li {
     width:100%;
     background-size:cover;
 }
+
+}
+ .ocean{
+    background-image:url("http://www.lifeconex.com/Userfiles/blog/sea-hello-cold-chain.jpg");
+    /*background-color: lightgray;*/
+    height: 400px;
+    width:100%;
+    background-size:cover;
+}
