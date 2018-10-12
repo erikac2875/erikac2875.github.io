@@ -54,7 +54,7 @@ ul.posts li {
  .post{
     background-image:url("http://www.lifeconex.com/Userfiles/blog/sea-hello-cold-chain.jpg");
     /*background-color: lightgray;*/
-    height: 400px;
+    height: 800px;
     width:100%;
     background-size:cover;
 }
