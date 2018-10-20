@@ -16,4 +16,5 @@ date: 2018-10-19
  <p> 4. The last shape in my flag was a star. </p>
  <p> When I was using the functions to start the flag, one thing I forgot was to write first "include image". If I don't include that then the program will not allow me to access the images folder from pyret. </p>
  
+ ![My Flag](/images/flag2.png)
 
