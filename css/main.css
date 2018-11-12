@@ -44,7 +44,7 @@ ul.posts li {
     list-style: none;
 }
  .fstPage {
-    background-image:url("https://s3.envato.com/files/106405422/sunrise_bird_590x332.jpg");
+    background-image:url("http://www.lifeconex.com/Userfiles/blog/sea-hello-cold-chain.jpg");
     /*background-color: lightgray;*/
     height: 400px;
     width:100%;
@@ -52,7 +52,7 @@ ul.posts li {
 
 }
  .post{
-    background-image:url("http://www.lifeconex.com/Userfiles/blog/sea-hello-cold-chain.jpg");
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVuFXmNVpiY_qr2OBJOGIzkQTLaR43fXTzi1u5u4rLNL37sLQg7g");
     /*background-color: lightgray;*/
     height: 1100px;
     width:100%;
