@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weekly Reflection #6, Launches Site"
+title: "Weekly Reflection #7, Launches Site"
 date: 2018-11-01
 ---
 <h2>Hello Everyone</h2>
