@@ -8,7 +8,7 @@ date: 2018-11-08
   </p>
   <u>Data Definitions<u/>
   <p>data CakeType:</p>
-  <p>|cake(</p>
+  <P ALIGN=Center> |cake(
   <p>flavor::string,</p>
   <p>layers::number,</p>
   <p>is-icecream::Boolean)</p>
