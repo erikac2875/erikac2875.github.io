@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Weekly Reflection #8 & #9, Launches Site"
-date: 2018-11-08-&-15
+date: 2018-11-08
+date: 2018-11-15
 ---
 <h2>Hello Everyone</h2>
 <p>Last week and this week we were working on Data Definitions. We were talking about math and how to connected to computer. we connected graphs to coordinates. Coordinates is a definatintion of the kind of data we used for this week.Data definition is similar to data table because both of them have names, strings, numbers and Booleans.For example:
