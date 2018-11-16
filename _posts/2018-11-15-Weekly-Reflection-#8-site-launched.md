@@ -17,4 +17,4 @@ date: 2018-11-15
   <p>We talked about different questions; lookup questions, computed questions, and ananlysis questions. A look up question are the first questions that start with easy to to be able to find the answers to it. Does lookup questions will guide you to ask difficult questions that have many answers. This difficult will be called analysis questions.Computed questions are questions that the computer can answer.</p>
   <p>We also worked on data abstraction. We use this data to get a section of a table that is our coding asking for. For eaxample: in class we worked on animal table. I wrote animals-table.row-n(0). I got the table's 0 row with a name the gender of the animal, age, legs, gender, etc. everything that an animal has to be describe.</p>
   
-![My Animals](/Screenshots/Screenshot(165))
+![My Animals](/images/Screenshot(165))
