@@ -18,3 +18,4 @@ date: 2018-11-15
   <p>We also worked on data abstraction. We use this data to get a section of a table that is our coding asking for. For eaxample: in class we worked on animal table. I wrote animals-table.row-n(0). I got the table's 0 row with a name the gender of the animal, age, legs, gender, etc. everything that an animal has to be describe.</p>
   
 ![My Animals](/images/Screenshot.png)
+![Pyret]()
