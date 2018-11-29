@@ -13,4 +13,4 @@ date: 2018-11-29
   <p>(d)prefer-flavor("lemon","lime")</p>
   
   <p>Correct Answer(a)</p>
-  <p>The mastery Skill that was involved in this question was Ms1, it was an apprentice level</p>
+  <p>The mastery Skill that was involved in this question was Ms1, it is an Apprentice level</p>
