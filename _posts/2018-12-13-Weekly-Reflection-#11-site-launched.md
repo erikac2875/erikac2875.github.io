@@ -32,4 +32,4 @@ C7 = place-image(C3,C9, H2, C5) <br/>
 Flag = place-image(S2,S3, H2, C7) <br/> 
 \\\ <br/>
 
-This week started 
+This week started  
