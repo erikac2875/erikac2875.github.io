@@ -5,7 +5,7 @@ date: 2018-12-13
 ---
 ![flag image](image/download.png.png)
 
-///include image
+\\\include image
 
 size = 200
 width =  size * 3  
@@ -28,4 +28,4 @@ S2 = rotate(160, S)
 RC = place-image(C,W3, H2, R)
 C5 = place-image(E,C8, H2, RC)
 C7 = place-image(C3,C9, H2, C5)
-Flag = place-image(S2,S3, H2, C7) ///
+Flag = place-image(S2,S3, H2, C7)\\\
