@@ -3,7 +3,7 @@ layout: post
 title: "Weekly #11: Flag-Project-In process"
 date: 2018-12-13
 ---
-![flag image](/image/download.png)
+![Flag image](/image/download.png)
 
 \\\ 
 include image <br/>
