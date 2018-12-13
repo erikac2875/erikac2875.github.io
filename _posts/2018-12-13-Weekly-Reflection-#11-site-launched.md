@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weekly Reflection #10, Launches Site"
+title: "Weekly #11: Flag-Project-In process"
 date: 2018-12-13
 ---
 ![flag image](image/download.png)
@@ -31,3 +31,4 @@ C5 = place-image(E,C8, H2, RC) <br/>
 C7 = place-image(C3,C9, H2, C5) <br/>
 Flag = place-image(S2,S3, H2, C7) <br/> 
 \\\ <br/>
+
