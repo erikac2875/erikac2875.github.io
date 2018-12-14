@@ -33,5 +33,5 @@ Flag = place-image(S2,S3, H2, C7) <br/>
 \\\ <br/>
 
 This week in AP Computer Science,, we started to construct a flag. Each student had two option pick Practition or Professional. Each of us had different flags, some where the same. The flag I selected was Tunisia its a professional level. <br/>
-
+It might look like I am done but I'm not. I still need to adjust the white circle with the red triangle for it to be the same size when I change the size of the flag. That way if we have to chande the size it will change but with everythingwith a size that will match.
 
