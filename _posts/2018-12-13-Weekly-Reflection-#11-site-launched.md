@@ -32,4 +32,6 @@ C7 = place-image(C3,C9, H2, C5) <br/>
 Flag = place-image(S2,S3, H2, C7) <br/> 
 \\\ <br/>
 
-This week started  
+This week in AP Computer Science,, we started to construct a flag. Each student had two option pick Practition or Professional. Each of us had different flags, some where the same. The flag I selected was Tunisia its a professional level. <br/>
+
+
