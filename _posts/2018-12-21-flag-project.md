@@ -8,10 +8,8 @@ date: 2018-12-21
 
 ## Describe your program
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
+-   The country I design it for was Africa because thats where Tunisia is located. I want for them to aprove if its functual, for everyone to use it. That way everyone else will be able to use the flag. This flag took almost a week to make it. 
+-    For this project I'll expect a four because I work hard. I was looking for different ways to place this flag together. 
 
 ## Current output
 
