@@ -37,7 +37,22 @@ date: 2018-12-21
 * * *
 
 ```
-Insert 10-15 line code section here _then delete this instruction_
+size = 200
+width =  size * 3  
+height = size * 2 
+
+H = height / 2
+W = width / 2
+
+
+Red = color(231, 0, 19, 1)
+white-c = color(255, 255, 255, 1)
+
+R = rectangle(width, height, "solid", Red )
+
+circle-1 = height / 4
+
+star-1 = height / 6
 ```
 
 * * *
