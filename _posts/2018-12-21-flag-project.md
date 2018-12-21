@@ -24,7 +24,6 @@ date: 2018-12-21
 ( https://masonm6137.github.io/blog/ ) for help. I asked him, "how did you rotated a Star to 160 degrees? because I was having trouble rotating it". I also I asked another classmate ( https://oliviae5741.github.io/blog/ ) for help, on how can I can keep the all pieces together while the flag changes to another sized. This was one of my biggest challenges out of this project, but at last got it. My flag seems finish but I am still finishing some small details, even if I was working on this project out of class, it was challenging. 
 
 ## Explain your code.
--   Tell us how it functions independently and within the whole program _then delete this instruction_
 
 * * *
 
