@@ -49,11 +49,8 @@ star-1 = height / 6
 
 * * *
 
--   Explain the code you posted by telling us about each argument. 
--   Then tell us how your code section fits into the whole.
- 
-
-
+-   The code I posted is the part the manages the colors of the figures that are using their code, and the width and height. Each of this figured have unique letters that represent them. This 10 lines can change anytime. If they change then the other line that has this code will change too. This lines make it easier that way we don't have to go through all the code and change the same code multiple times. If we change the size of the flag, which is the first line, then the flag will change to the number but the flag will look the same because of the width and height. The numbers are calculated correctly. This shows the flag can be any size you want it to be. The color has its own letter, instead of writing the whole name of the color, we just have to write it once and just write the letter that represents it. Not all figures will be the same on the flag some will have to divide with only height or width, I used height 
+-  For this code to be able to work they need to have a sized to multiply and then divide. There is a figured that needs hight and width that way it will be controlled by sized which helps the rest of the figures connected to it stay with the sized that is added to it and make the flag look the same only different size.
 
 ## Program code
 
