@@ -9,7 +9,7 @@ date: 2018-12-21
 ## Describe your program
 
 -   The country I design it for was Africa because thats where Tunisia is located. I want for them to aprove if its functual, for everyone to use it. That way everyone else will be able to use the flag. This flag took almost a week to make it. 
--    For this project I'll expect a four because I work hard. I was looking for different ways to place this flag together. 
+-    For this project I'll expect a four because I work hard. I looked for different ways to place this flag together. It was exciting creating a flag, step by step. It was challenging, but it was fun looking for different ways to build it together. 
 
 ## Current output
 
@@ -20,9 +20,8 @@ date: 2018-12-21
 
 ## Describe your process.
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
+-   What questions, strategies, help from peers or teacher, or thinking got you to this point? 
 
-<!--- Delete this comment and add your writing -->
 
 
 ## Explain your code.
@@ -82,7 +81,7 @@ R = rectangle(width, height, "solid", Red )
 circle-1 = height / 4
 
 star-1 = height / 6
-#------
+
 
 c = circle( circle-1, "solid", white-c)
 pi = place-image(c, W , H , R)
